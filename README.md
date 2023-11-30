@@ -1,9 +1,4 @@
 # Inventory-Management-System
-Absolutely, here is a basic README.md structure for your Java DAO project:
-
----
-
-# ProductDAO Project
 
 This Java project revolves around handling products via a Data Access Object (DAO) model. The project comprises classes and methods responsible for interacting with a database to perform CRUD (Create, Read, Update, Delete) operations on product information.
 
